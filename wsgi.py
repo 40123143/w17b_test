@@ -755,7 +755,7 @@ class Hello(object):
     gear(0, 0,''' + str(total) + ',' + str(b) +  ''',"green")
     ctx.restore()
         </script>
-        <canvas id="plotarea" width="800" height="600"></canvas>
+        <canvas id="plotarea" width="1200" height="1200"></canvas>
         </body>
         </html>
     <a href="index">index</a>
